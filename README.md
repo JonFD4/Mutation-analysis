@@ -13,6 +13,7 @@
     * How data can be cleaned, visualized, and shared
 
 ### Project Structure
+```graphql
 genomic-mutation-project/
 │
 ├── data/
@@ -36,10 +37,10 @@ genomic-mutation-project/
 ├── api/                     # (Future) API layer for web app
 │   └── app.py or index.ts
 │
-├── frontend/                # (Future) TypeScript or Next.js web frontend
+├── frontend/            # (Future) TypeScript or Next.js web
 │
 └── README.md
-
+```
 ## Set up and requirements
 
 In requirements.txt
